@@ -20,7 +20,7 @@ A sleek and simple password generator built using **React** + **Vite**. This too
 
 - React
 - Vite
-- Tailwind CSS (optional, if used for styling)
+- Tailwind CSS
 - JavaScript (ES6+)
 
 ## 📦 Installation
